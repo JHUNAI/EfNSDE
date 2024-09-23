@@ -1,0 +1,2 @@
+This code refers the code of Kidger at url: https://github.com/patrick-kidger/equinox.
+Learn more in url: https://github.com/patrick-kidger.
